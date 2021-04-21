@@ -142,11 +142,11 @@ column is 3.5%.
 
 ![](img/data2.png)
 
-[fig: Number of activations in targets for every sample (in percent)]
+Fig-1: Number of activations in targets for every sample (in percent)
 
 ![](img/data1.png)
 
-[fig: Percent of positive records for every column in target]
+Fig-2: Percent of positive records for every column in target
 
 As it is clearly visible from the analysis, the dataset provided to us was really imbalanced.
 
@@ -175,14 +175,14 @@ new ones which were a result of modifications done in our project.
 
 ![](img/result.png)
 
-[fig: Log loss decreased with continued attempts]
+Fig-3: Log loss decreased with continued attempts
 
 With repeated modifications and development, we were able to improve our rank on  
 Kaggle leaderboard
 
 ![](img/rank.png)
 
-[fig: Kaggle Leaderboard Position]
+Fig-4: Kaggle Leaderboard Position
 
 Conclusion
 ==========
